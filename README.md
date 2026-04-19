@@ -7,3 +7,5 @@ This marks as my first legit project
 
 Hey its me again
 # I love money
+
+## I want to be rich
